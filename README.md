@@ -1,4 +1,4 @@
-### Github Repositories 설명서
+### Github Repositories Info
 #### 👨‍👧‍👦 [프로젝트 우.꿈.스](https://github.com/LM-channel-team-project/wooggooms)
 + '우리가 꿈꾸는 스터디'는 다양한 종류의 스터디를 한 곳에서 모아 보는 스터디 매칭 웹 플랫폼입니다.  
 + [sanoopark](https://github.com/sanoopark), [young961027](https://github.com/young961027)과 함께 개발하는 팀 프로젝트입니다.
