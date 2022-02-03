@@ -1,5 +1,5 @@
 ### Repositories 설명서
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42KIM)](https://github.com/42KIM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42KIM&layout=compact)](https://github.com/42KIM/github-readme-stats)
 
 
 #### 📝 [개발 블로그](https://github.com/42KIM/42KIM.github.io)
