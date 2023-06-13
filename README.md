@@ -1,6 +1,7 @@
-
+<!-- 
 [![42's GitHub stats](https://github-readme-stats.vercel.app/api?username=42KIM&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42KIM&layout=compact)](https://github.com/42KIM/github-readme-stats)
 
 
